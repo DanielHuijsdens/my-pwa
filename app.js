@@ -11,7 +11,7 @@ if ('serviceWorker' in navigator) {
 }
 
 function getnewpage() {
-    location.href='newpage.html';
+    location.href='my-app/newpage.html';
 }
 
 let deferredPrompt;
